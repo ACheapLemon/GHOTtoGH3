@@ -1,0 +1,7 @@
+Z:\Documents\Repos\GHOTtoGH3\GHOTtoGH3\obj\Debug\GHOTtoGH3.csprojAssemblyReference.cache
+Z:\Documents\Repos\GHOTtoGH3\GHOTtoGH3\obj\Debug\GHOTtoGH3.csproj.CoreCompileInputs.cache
+Z:\Documents\Repos\GHOTtoGH3\GHOTtoGH3\bin\Debug\GHOTtoGH3.exe.config
+Z:\Documents\Repos\GHOTtoGH3\GHOTtoGH3\bin\Debug\GHOTtoGH3.exe
+Z:\Documents\Repos\GHOTtoGH3\GHOTtoGH3\bin\Debug\GHOTtoGH3.pdb
+Z:\Documents\Repos\GHOTtoGH3\GHOTtoGH3\obj\Debug\GHOTtoGH3.exe
+Z:\Documents\Repos\GHOTtoGH3\GHOTtoGH3\obj\Debug\GHOTtoGH3.pdb
